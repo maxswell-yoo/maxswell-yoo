@@ -5,6 +5,7 @@
 [![Email](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=blacke)](https://leetcode.com/maxswell-yoo/)
 
 ![Maxswell GitHub stats](https://github-readme-stats.vercel.app/api?username=maxswell-yoo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que utilizo no meu dia dia
 
