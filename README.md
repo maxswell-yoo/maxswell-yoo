@@ -5,8 +5,10 @@
 [![Email](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=blacke)](https://leetcode.com/maxswell-yoo/)
 
 ![Maxswell GitHub stats](https://github-readme-stats.vercel.app/api?username=maxswell-yoo&show_icons=true&theme=radical) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxswell-yoo&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
-<img aling="right" alt="html5"  src="https://i.gifer.com/Yo1G.gif"/>
+![Yo1G](https://github.com/maxswell-yoo/maxswell-yoo/assets/131707747/7858d3ff-bc2f-420e-9514-da7663f2cae4)
+
 
 ### Tecnologias que utilizo no meu dia dia
 
